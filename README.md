@@ -37,6 +37,11 @@ Este proyecto es una aplicación para el control de jornada laboral que incluye 
 - **Docker** y **Docker Compose**
 - **npm** o **yarn**
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/ae9f59ac-4d96-4b58-bd65-40e1ed3bc713)
+
+
 ## Instalación
 
 1. Clona el repositorio:
